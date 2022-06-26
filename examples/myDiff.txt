@@ -1,0 +1,7 @@
+scatter: 0, 2, 2, 2
+chase: 5, 20, 35
+vulnerable: 10
+ghostRespawn: 5
+gameSpeed: 1
+ghostSpeed: 2
+

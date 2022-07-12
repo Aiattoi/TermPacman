@@ -8,6 +8,8 @@ Just download this repository and start the game by typing `make run` in your te
 
 ## Gameplay
 
+![Gameplay](/gameplay.png?raw=true "Gameplay")
+
 ### Game initialization
 
 Before game starts you choose a file with a game map(pre-made classic.txt), after successfull loading of the map you will choose difficulty. You can either choose one of available difficulties, or you can choose custom difficulty, which will then require a file, where durations of scatter and chase mode will be specified. Once the chosen difficulty loads itself the game starts.
